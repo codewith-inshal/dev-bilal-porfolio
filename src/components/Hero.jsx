@@ -2,7 +2,7 @@ function Hero() {
   return (
     <section
       id="home"
-      className="min-h-screen flex items-center pt-24 bg-gradient-to-r from-blue-50 to-orange-50"
+      className="min-h-screen flex items-center pt-24 bg-linear-to-r from-blue-50 to-orange-50"
     >
       <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-10 items-center">
         <div>
@@ -39,7 +39,7 @@ function Hero() {
           <img
             src="bilal.jpeg"
             alt="Bilal"
-            className="w-[350px] h-[350px] rounded-full object-cover border-8 border-white shadow-2xl"
+            className="w-87.5 h-87.5 rounded-full object-cover border-8 border-white shadow-2xl"
           />
         </div>
       </div>
