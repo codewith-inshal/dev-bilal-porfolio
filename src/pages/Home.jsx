@@ -6,7 +6,7 @@ import Education from "../components/Education";
 import Skills from "../components/Skills";
 import Services from "../components/Services";
 import Projects from "../components/Projects";
-import Contact from "../components/contact";
+import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 
 function Home() {
